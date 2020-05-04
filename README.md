@@ -1,7 +1,7 @@
 # JanataHack-Steam-Reviews-Sentiment-Analysis-Hackathon-by-Analytics-Vidhya
 
 <a href = 'https://datahack.analyticsvidhya.com/contest/janatahack-e-commerce-analytics-ml-hackathon/'>Competition Details and Leaderboard</a><br>
-Ranks:<br>
+Rank:<br>
 Public Leaderboard : 139<br>
 Private Leaderboard : 130<br>
 
