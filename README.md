@@ -1,5 +1,7 @@
 # JanataHack-Steam-Reviews-Sentiment-Analysis-Hackathon-by-Analytics-Vidhya
 
+The task was to predict whether a user recommended the game or not by learning from the text review given.<br>
+
 <a href = 'https://datahack.analyticsvidhya.com/contest/janatahack-nlp-hackathon/'>Competition Details and Leaderboard</a><br>
 Rank:<br>
 Public Leaderboard : 139<br>
