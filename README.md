@@ -6,9 +6,9 @@ Public Leaderboard : 139<br>
 Private Leaderboard : 130<br>
 
 Submissions<br>
-<a href = >Approach 1</a><br>
-<a href = >Approach 2</a><br>
-<a href = >Approach 3</a><br>
+<a href = 'https://github.com/hithesh111/JanataHack-Sentiment-Analysis-Hackathon-Analytics-Vidhya/blob/master/approach1.ipynb'>Approach 1</a><br>
+<a href = 'https://github.com/hithesh111/JanataHack-Sentiment-Analysis-Hackathon-Analytics-Vidhya/blob/master/approach2.ipynb' >Approach 2</a><br>
+<a href = 'https://github.com/hithesh111/JanataHack-Sentiment-Analysis-Hackathon-Analytics-Vidhya/blob/master/approach3.ipynb'>Approach 3</a><br>
 
 Dataset<br>
 <a href = 'https://github.com/hithesh111/JanataHack-Sentiment-Analysis-Hackathon-Analytics-Vidhya/blob/master/train.csv'>Training Data</a><br>
