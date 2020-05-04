@@ -5,7 +5,10 @@ Rank:<br>
 Public Leaderboard : 139<br>
 Private Leaderboard : 130<br>
 
-<a href = >Model - Final Submission</a><br>
+Submissions<br>
+<a href = >Approach 1</a><br>
+<a href = >Approach 2</a><br>
+<a href = >Approach 3</a><br>
 
 Dataset<br>
 <a href = 'https://github.com/hithesh111/JanataHack-Sentiment-Analysis-Hackathon-Analytics-Vidhya/blob/master/train.csv'>Training Data</a><br>
